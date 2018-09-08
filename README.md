@@ -1,2 +1,2 @@
 # Photo-gallery
-Photo Gallery!! Cousera assignment using CSS3, HTML5 and Javascript.
+Photo Gallery!! Coursera assignment using CSS3, HTML5 and Javascript.
